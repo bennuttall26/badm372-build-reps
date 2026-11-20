@@ -1,0 +1,12 @@
+BADM372/badm372-project-5: 2 merged PR branch(es) got commits after their PR's last commit.
+
+#256 Update data model to match the implemented app
+  branch docs/update-current-data-model -> main, merged 2026-11-17T23:59:35Z
+  2ba11b7 2026-11-18T00:02:39Z Isha Rao: Document every entity column with types and keys  [saved: merged later in PR #263]
+  0d71013 2026-11-18T00:06:11Z Isha Rao: Show all entity columns and keys in relationship diagram  [saved: merged later in PR #263]
+
+#246 Remove networking practice from the app
+  branch ben-remove-networking -> main, merged 2026-11-17T23:55:25Z
+  40fad2e 2026-11-17T23:59:56Z Benjamin Nuttall: Update the data model doc for the networking removal  [saved: merged later in PR #263]
+
+No commits are lost: each one is in a later PR.

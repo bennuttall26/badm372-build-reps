@@ -1,0 +1,11 @@
+BADM372/badm372-project-2: 1 merged PR branch(es) got commits after their PR's last commit.
+
+#149 Add AI evaluation memo for rianpp2
+  branch ai-evaluation-memo-rianpp2 -> main, merged 2026-11-10T05:09:23Z
+  b970408 2026-11-10T05:09:24Z Rian Patel: Clarify: all LLM traffic routes through Groq (not OpenAI/Anthropic)  [saved: copied to main as 8e3d6bc]
+  9407063 2026-11-10T05:23:32Z Rian Patel: Add AI decision record (Part 1): Chatbot=Narrow, Report Assistant=Ship with guardrails  [saved: copied to main as 64cca5e]
+  39a917d 2026-11-10T05:34:26Z Rian Patel: Update Part 1 decision record to match team format (Week 12)  [saved: copied to main as de1bb30]
+  be3b13f 2026-11-10T05:38:13Z Rian Patel: Move decision record to docs/decisions/ per README  [saved: copied to main as 7c75e21]
+  27e7957 2026-11-10T18:44:06Z Rian Patel: Fix Groq rate limits in AI evaluation memo: correct units (per-minute not per-second) and values per official rate-limit table  [saved: copied to main as 30d4871]
+
+No commits are lost: each one is in a later PR.
